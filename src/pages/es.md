@@ -5,16 +5,12 @@ lang:
   langName: Español
   langImage: /img/spain.svg
 ---
-![](/img/la-cuina-d-en-sisu-06.png)
+![](/img/carta-1.png)
 
-![](/img/la-cuina-d-en-sisu-09.png)
+![](/img/carta-2.png)
 
-![](/img/la-cuina-d-en-sisu-11.png)
+## Bebidas
 
-## Carta de vinos
+![](/img/begudes-1.png)
 
-![](/img/carta-vins-2020-provisional-1.png)
-
-![](/img/carta-vins-2020-provisional-2.png)
-
-![](/img/carta-vins-2020-provisional-3.png)
+![](/img/begudes-2.png)
