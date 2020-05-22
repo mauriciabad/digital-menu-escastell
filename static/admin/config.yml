@@ -1,6 +1,6 @@
 backend:
   name: git-gateway
-  repo: mauriciabad/digital-menu-lacuina
+  repo: mauriciabad/digital-menu-escastell
   branch: master
   commit_messages:
     create: 'Create {{collection}} “{{slug}}”'
@@ -10,7 +10,7 @@ backend:
     deleteMedia: '[skip ci] Delete “{{path}}”'
 
 locale: 'es'
-site_url: https://lacuina-carta.netlify.app/
+site_url: https://escastell-carta.netlify.app/
 
 media_folder: static/img
 public_folder: /img
